@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:01:26 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Thu Sep  3 13:39:18 2026
+# Process ID         : 377358
+# Current directory  : /home/pmyers/Mux_Behavioral/Mux_Behavioral.runs/synth_1
+# Command line       : vivado -log Mux3b4to1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Mux3b4to1.tcl
+# Log file           : /home/pmyers/Mux_Behavioral/Mux_Behavioral.runs/synth_1/Mux3b4to1.vds
+# Journal file       : /home/pmyers/Mux_Behavioral/Mux_Behavioral.runs/synth_1/vivado.jou
+# Running On         : PatsLaptop
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.4 LTS
+# Processor Detail   : AMD Ryzen AI 7 350 w/ Radeon 860M
+# CPU Frequency      : 1550.636 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 15874 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 20169 MB
+# Available Virtual  : 7205 MB
+#-----------------------------------------------------------
+source Mux3b4to1.tcl -notrace
