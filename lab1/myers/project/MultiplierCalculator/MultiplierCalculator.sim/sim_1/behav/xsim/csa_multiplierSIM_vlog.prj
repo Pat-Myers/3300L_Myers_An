@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../2026.1/data/rsb/busdef" \
+"../../../../MultiplierCalculator.srcs/sources_1/new/csa_multiplier.v" \
+"../../../../MultiplierCalculator.srcs/sources_1/imports/Downloads/full_adder.v" \
+"../../../../MultiplierCalculator.srcs/sources_1/imports/Downloads/half_adder.v" \
+"../../../../MultiplierCalculator.srcs/sources_1/new/mq4bit.v" \
+"../../../../MultiplierCalculator.srcs/sim_1/new/csa_multiplierSIM.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
